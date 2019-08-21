@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GoalsApp",
-    "slug": "GoalsApp",
+    "name": "to-do-app",
+    "slug": "to-do-app",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
